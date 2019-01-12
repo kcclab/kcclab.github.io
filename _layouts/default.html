@@ -23,20 +23,5 @@
 <script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
 
 
-{% if page.layout != 'home' %}
-    {% include kakaostory_sdk.html %}
-
-    {% if site.facebook %}
-    {% include facebook_sdk.html %}
-    {% endif %}
-
-    {% if site.twitter %}
-    {% include twitter_sdk.html %}
-    {% endif %}
-
-    {% if site.google_plus %}
-    {% include google_plus_sdk.html %}
-    {% endif %}
-{% endif %}
 </body>
 </html>
