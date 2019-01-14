@@ -84,13 +84,13 @@ $ bundle exec jekyll serve --drafts
 ---
 
 ### 참고
-[GitHub Pages]: https://pages.github.com
-[Jekyll]: https://jekyllrb.com
-[front matter]: https://jekyllrb.com/docs/frontmatter/
-[gfm]: https://guides.github.com/features/mastering-markdown/
-[kramdown]: http://kramdown.gettalong.org
-[rouge]: http://rouge.jneen.net
-[kakao tech blog]: https://github.com/kakao/kakao.github.io
+GitHub Pages: https://pages.github.com
+Jekyll: https://jekyllrb.com
+front matter: https://jekyllrb.com/docs/frontmatter/
+gfm: https://guides.github.com/features/mastering-markdown/
+kramdown: http://kramdown.gettalong.org
+rouge: http://rouge.jneen.net
+kakao tech blog: https://github.com/kakao/kakao.github.io
 
 ## License
 
