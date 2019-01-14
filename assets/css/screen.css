@@ -189,6 +189,7 @@ for small screen(<720px):
     padding: 0;
     border-bottom: 1px solid #e6e6e6;
     background-color: #fff;
+    height: 60px;
 }
 
 #logo {
@@ -603,8 +604,8 @@ for small screen(<720px):
 
 #post-list .author-image {
     display: block;
-    width: 60px;
-    height: 60px;
+    width: 40px;
+    height: 40px;
     margin: 0 auto;
     border-radius: 100%;
     background: url(../images/pc/default_pic_s.png) no-repeat center;
