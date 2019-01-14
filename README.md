@@ -84,19 +84,20 @@ $ bundle exec jekyll serve --drafts
 ---
 
 ### 참고
-GitHub Pages: https://pages.github.com
-Jekyll: https://jekyllrb.com
-front matter: https://jekyllrb.com/docs/frontmatter/
-gfm: https://guides.github.com/features/mastering-markdown/
-kramdown: http://kramdown.gettalong.org
-rouge: http://rouge.jneen.net
-kakao tech blog: https://github.com/kakao/kakao.github.io
+
+GitHub Pages: <https://pages.github.com>
+Jekyll: <https://jekyllrb.com>
+front matter: <https://jekyllrb.com/docs/frontmatter/>
+gfm: <https://guides.github.com/features/mastering-markdown/>
+kramdown: <http://kramdown.gettalong.org>
+rouge: <http://rouge.jneen.net>
+kakao tech blog: <https://github.com/kakao/kakao.github.io>
 
 ## License
 
 This software is licensed under the [Apache 2 license](LICENSE.txt), quoted below.
 
-Copyright 2017 Kakao Corp. <http://www.kakaocorp.com>
+Copyright 2019 Seungwhan,Lee.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this project except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.
 
