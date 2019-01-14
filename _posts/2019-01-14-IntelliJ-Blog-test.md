@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 인텔리제이 테스트
-author: 이승환
+author: seunghwan.lee
 date: 2019-01-14 13:01
 tags: [test, github]
 status: test
